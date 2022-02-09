@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="assist_action_play_label">"Reproduzir"</string>
+<string name="action_mute_short">"MUDO"</string>
+<string name="action_mute_long">"Ativar mudo da conversa"</string>
+<string name="action_unmute_short">"Ativar som"</string>
+<string name="action_unmute_long">"Desativar mudo da conversa"</string>
+<string name="action_canned_reply">"\"Estou dirigindo agora.\""</string>
+<string name="canned_reply_message">"Estou dirigindo agora."</string>
+<string name="toast_message_sent_success">"Mensagem enviada com sucesso."</string>
+<string name="notification_service_label">"Serviço de ouvinte de notificação do veículo"</string>
+<string name="notifications">"Central de notificações"</string>
+<string name="clear_all">"Limpar tudo"</string>
+<string name="ellipsized_string">"&#8230;"</string>
+<string name="show_more">"Mostrar mais"</string>
+<string name="notification_header">"Notificações"</string>
+<string name="empty_notification_header">"Sem notificações"</string>
+<string name="show_less">"Mostrar menos"</string>
+<string name="show_count_more">"Mostrar mais&#160;<xliff:g id="count">%d</xliff:g>&#160;"</string>
+<string name="message_unshown_count">"mais &#160;+<xliff:g id="count">%d</xliff:g>&#160;"</string>
+<plurals name="restricted_message_text">
+<item quantity="one">"1 nova mensagem"</item>
+<item quantity="other">"<xliff:g id="count" example="3">%d</xliff:g> novas mensagens"</item>
+</plurals>
+</resources>
